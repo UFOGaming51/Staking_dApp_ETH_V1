@@ -1,0 +1,23 @@
+{    
+    "goerli": {
+        "rootChainManager": "0xBbD7cBFA79faee899Eaf900F13C9065bF03B1A74",
+        "erc20Predicate": "0xdD6596F2029e6233DEFfaCa316e6A95217d4Dc34",
+        "stakingFactory": "0xdF5882EB6157244Ad53C6fc3eb0A00BF438C3180",
+        "depositHelper": "0x411ED27e61217Ba160c2d1A33160eC07d3DD0f3D",
+        "plasma": "0xD604D8fD5085806B509d37F509f92E3f95f3ff14",
+        "customBridge": "0xdFC2146BfB00e1914e13F0F4EE3088151dEA19D6",
+        "beacon": "0x727E8EBe7a02c7Ba4Ab0aE4209dE4C3d51940901",
+        "ufoToken": "0x85C22B2605ED6caeFdd25c4758e015d6f33bd2AB",
+        "lpToken": "0x445af27a4DA682D169f17456e881Ba538d6758f7"
+    },
+    "mumbai": {
+        "plasma": "0xb9266846103a9bfca88cd034158cb02666593157"
+    },
+    "mainnet": {
+        "plasma": "0x15b368C09b14148DF5fE4e4Bff80CA270453BBf4",
+        "erc20Predicate":"0x40ec5B33f54e0E8A33A975908C5BA1c14e5BbbDf",
+        "rootChainManager": "0xA0c68C638235ee32657e8f720a23ceC1bFc77C77",
+        "ufoToken":"0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+        "lpToken":"0x97e1fcb93ae7267dbafad23f7b9afaa08264cfd8"
+    }
+}
